@@ -1,6 +1,10 @@
 <template>
-  <h1>DcComics</h1>
+   <div>
+     <h2>esempio</h2>
+     <h1>DcComics-header</h1>
+   </div>
 </template>
+
 
 <script>
 export default {
@@ -8,7 +12,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+
 <style scoped lang="scss">
 
 </style>
