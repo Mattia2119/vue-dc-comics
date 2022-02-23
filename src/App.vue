@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <MyHeader/>
+    <MyJumbotron/>
     <MyMain/>
     <MyBlueSection/>
     <MyFooterTop/>
@@ -10,20 +11,22 @@
 
 <script>
 import MyHeader from './components/MyHeader.vue'
-import MyMain from './components/MyMain.vue'
+import MyJumbotron from './components/MyJumbotron.vue'
 import MyBlueSection from './components/MyBlueSection.vue'
 import MyFooterTop from './components/MyFooterTop.vue'
 import MyFooterBottom from './components/MyFooterBottom.vue'
+import MyMain from './components/MyMain.vue'
 
 
 export default {
   name: 'App',
   components: {
     MyHeader,
-    MyMain,
+    MyJumbotron,
     MyBlueSection,
     MyFooterTop,
     MyFooterBottom,
+    MyMain,
   }
 }
 </script>
