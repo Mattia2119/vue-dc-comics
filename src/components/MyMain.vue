@@ -9,52 +9,6 @@
                     <p class="title">{{link.series}}</p>
                 </div>
             </a>
-
-            <!--
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-
-            <div class="card">
-
-            </div>
-            -->
             
             <div class="long-card">
                 <a href="#">
